@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the required text, readings by sessions,
+  and additional readings on singing logarithms and physical constants.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
